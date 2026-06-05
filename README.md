@@ -60,5 +60,5 @@ This project was created for:
 - Portfolio Development
 
 ## Kaggle
+Dataset Link:https://www.kaggle.com/datasets/varchasvapandey08/european-football-players-dataset-2025
 
-Dataset and notebook published on Kaggle.
